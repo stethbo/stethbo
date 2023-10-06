@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Stefan, based in Wrocław, Poland🇵🇱.
+
+- 🧑‍💻I'm currently working @ Dolby as an NLP Intern.
+- 🎓I'm pursuing Engineering Degree in Systems Engineering @ Wrocław University of Science and Technology
+- 🧐I'm interested in start'ups and entrepreneurship.
+  
+  #### **LFG!**
 <!--
 **stethbo/stethbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
