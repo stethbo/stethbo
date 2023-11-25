@@ -1,4 +1,4 @@
-### Hi there 👋
+## e/acc - ACCCELARATING🚀 to the future.
 
 I'm Stefan, based in Wrocław, Poland🇵🇱.
 
