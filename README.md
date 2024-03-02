@@ -3,7 +3,7 @@
 I'm Stefan, based in Wrocław, Poland🇵🇱.
 
 - 🧑‍💻I'm currently working @ Dolby as an NLP Intern.
-- 🎓I'm pursuing Engineering Degree in Systems Engineering @ Wrocław University of Science and Technology
+- 🎓**Artificial Intelligence** master's degree student @ Wrocław University of Science and Technology
 - 🧐I'm interested in start'ups and entrepreneurship.
 - 💬Want to chat about AI, start'ups, business or tech in general, hit me up on 𝕏 at [@stethbo](https://twitter.com/stethbo)
   
