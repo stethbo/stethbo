@@ -1,4 +1,4 @@
-##### I'm Stefan (e/acc🚀), based in Wrocław, Poland🇵🇱.
+#### I'm Stefan (e/acc🚀), based in Wrocław, Poland🇵🇱.
 
 - 🧑‍💻**NLP Intern** @ **[Dolby Labs](https://www.dolby.com/)**
 - 🎓**Artificial Intelligence** master's degree student @ [Wrocław University of Science and Technology](https://ai.pwr.edu.pl/)
